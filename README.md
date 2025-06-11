@@ -55,3 +55,5 @@ If you are prepared to begin exploring Archetyp Darknet Marketplace, here are th
 ### Disclaimer
 
 This guide is provided for educational purposes only. The information is presented with the aim of increasing awareness and understanding of the darknet. We do not endorse or promote any illegal activities. Always comply with local laws and regulations when exploring the internet. Stay safe and informed!
+
+Update: Corrected broken authentication guide links
