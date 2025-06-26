@@ -68,4 +68,6 @@ This guide is provided for educational purposes only. The information is present
 
 
 
-Update:  24.06.2025 04:39 link is operational
+
+
+Update:  06/26/2025 07-41-50 Link is now reachable online
