@@ -76,4 +76,6 @@ This guide is provided for educational purposes only. The information is present
 
 
 
-Update:  14.07.2025 Private links
+
+
+Update:  07/18/2025 15-00-14
