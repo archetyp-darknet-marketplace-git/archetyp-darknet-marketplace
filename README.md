@@ -80,4 +80,6 @@ This guide is provided for educational purposes only. The information is present
 
 
 
-Update:  07/21/2025 Fixed broken url
+
+
+Update: Link is now accessible and responsive
