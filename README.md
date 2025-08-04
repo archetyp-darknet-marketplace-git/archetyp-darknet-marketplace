@@ -82,4 +82,6 @@ This guide is provided for educational purposes only. The information is present
 
 
 
-Update: Link is now accessible and responsive
+
+
+Update:  04.08.2025 url is live and operational
