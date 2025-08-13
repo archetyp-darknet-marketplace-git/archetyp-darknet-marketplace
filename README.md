@@ -84,4 +84,6 @@ This guide is provided for educational purposes only. The information is present
 
 
 
-Update:  04.08.2025 url is live and operational
+
+
+Update:  08/13/2025 Internal navigation
